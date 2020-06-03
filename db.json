@@ -1,0 +1,34 @@
+{
+"todo":[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "selected either the",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "Who will be easy for those services",
+    "completed" :false
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "I fly less",
+    "completed" :false
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "and on time",
+    "completed": true
+  },
+  {
+    "userId": 1,
+    "id": 5,
+    "title": "an intense experience because they provide the resilience and the like",
+    "completed" :false
+  } 
+]
+}
